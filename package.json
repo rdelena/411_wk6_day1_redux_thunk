@@ -4,10 +4,10 @@
   "homepage": "https://rdelena.github.io/411_wk6_day1_redux_thunk/",
   "private": true,
   "dependencies": {
-    "@mui/material": "^5.8.2",
-    "@mui/icons-material": "^5.8.2",
-    "@emotion/styled": "^11.8.1",
     "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.2",
+    "@mui/material": "^5.8.2",
     "i": "^0.3.7",
     "npm": "^8.10.0",
     "react": "^18.1.0",
@@ -42,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
